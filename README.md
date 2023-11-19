@@ -4,7 +4,7 @@ Bilgilerin alındığı sayfada kullanıcı isim, avatar ve cinsiyet bilgilerini
 Kullanıcı uygulama içinde bulunan avatarlardan kendi avatarını seçebiliyor. <br/>
 Kişisel bilgilerin alındığı sayfadan da girilen bilgilerin görüntülendiği profil ekranına geçiş yapılıyor. <br/>
 
-
+[Screen_recording_20231119_103458.webm](https://github.com/gulerkandeger/Flutter-Avatar-Select/assets/77187949/8bc05d51-4f2f-4882-ab74-d532e0b2133b)
 
 ## Getting Started
 
