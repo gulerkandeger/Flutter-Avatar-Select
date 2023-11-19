@@ -4,7 +4,7 @@ Bilgilerin alındığı sayfada kullanıcı isim, avatar ve cinsiyet bilgilerini
 Kullanıcı uygulama içinde bulunan avatarlardan kendi avatarını seçebiliyor. <br/>
 Kişisel bilgilerin alındığı sayfadan da girilen bilgilerin görüntülendiği profil ekranına geçiş yapılıyor. <br/>
 
-[Uploading Screen_recording_20231119_103458.webm…]()
+
 
 ## Getting Started
 
