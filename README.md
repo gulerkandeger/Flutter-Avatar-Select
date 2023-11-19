@@ -1,6 +1,10 @@
 # select_avatar
+Animasyonlu bir giriş ekranıyla açılıyor ve kullanıcının kişisel bilgilerinin alındığı sayfaya geçiş yapıyor. <br/>
+Bilgilerin alındığı sayfada kullanıcı isim, avatar ve cinsiyet bilgilerini giriyor. <br/>
+Kullanıcı uygulama içinde bulunan avatarlardan kendi avatarını seçebiliyor. <br/>
+Kişisel bilgilerin alındığı sayfadan da girilen bilgilerin görüntülendiği profil ekranına geçiş yapılıyor. <br/>
 
-A new Flutter project.
+[Uploading Screen_recording_20231119_103458.webm…]()
 
 ## Getting Started
 
